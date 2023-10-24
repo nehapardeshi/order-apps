@@ -1,5 +1,5 @@
 # Order Apps
-This solution is developed to demonstrate the usage of Azure Functins with Http and Service Bus Queue Triggers along with developing ASP.NET Core Web API with Entity Framework Code First approach, The solution consists of three application:
+This solution is developed to demonstrate the usage of Azure Functions with Http and Service Bus Queue Triggers along with developing ASP.NET Core Web API with Entity Framework Code First approach, The solution consists of three application:
 - Send Order Function App
 - Receive Order Function App
 - Order Web API
